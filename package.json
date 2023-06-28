@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/dogsoft0937/shop_app#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.22"
   }
 }
